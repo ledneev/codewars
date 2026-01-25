@@ -1,0 +1,1 @@
+const isPronic = n => (x = Math.floor(Math.sqrt(n))) * (x + 1) === n;
