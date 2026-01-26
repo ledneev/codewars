@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/527b3cd0492b6b15250060af/train/javascript target="_blank">Push a hash/an object into array</a></h2><h3>8 kyu</h3><p>You are trying to put a hash in ruby or an object in javascript or java into an array, but it always returns error, solve it and keep it as simple as possible!</p>
