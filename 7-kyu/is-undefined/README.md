@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/564a6486c2070faee6000011/train/javascript target="_blank">Is Undefined?</a></h2><h3>7 kyu</h3><p>The function is supposed to check if the input is <code>undefined</code>, but it is not working correctly. Can you fix the code ?</p>
